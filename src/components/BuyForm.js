@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import ethLogo from '../eth-logo.png';
 import j4keLogo from '../j4ke-logo.png';
 import { Formik, Field, ErrorMessage } from 'formik';
