@@ -1,1 +1,7 @@
-/* Styles go here */
+.app-body {
+    height: 90vh;
+}
+
+.flex-fill {
+    flex: 1;
+}
